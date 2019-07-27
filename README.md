@@ -7,3 +7,4 @@ I will be building up this list over time. See also [my blog](https://laurentles
 - Mar 1, 2019 (Riddler Classic): [Bananagrams](https://github.com/LaurentLessard/Riddler538/blob/master/bananagrams.ipynb)
 - Apr 26, 2019 (Riddler Express): [Thanos snaps](https://github.com/LaurentLessard/Riddler538/blob/master/thanos.ipynb)
 - May 15, 2019 (Riddler Classic): [Living vs Dead](https://github.com/LaurentLessard/Riddler538/blob/master/deadvsliving.ipynb)
+- Jul 29, 2019 (Riddler Classic): [US Traverse](https://github.com/LaurentLessard/Riddler538/blob/master/us_traverse.ipynb)

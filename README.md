@@ -8,4 +8,4 @@ I will be building up this list over time. See also [my blog](https://laurentles
 - Apr 26, 2019 (Riddler Express): [Thanos snaps](https://github.com/LaurentLessard/Riddler538/blob/master/thanos.ipynb)
 - May 15, 2019 (Riddler Classic): [Living vs Dead](https://github.com/LaurentLessard/Riddler538/blob/master/deadvsliving.ipynb)
 - Jul 29, 2019 (Riddler Classic): [US Traverse](https://github.com/LaurentLessard/Riddler538/blob/master/us_traverse.ipynb)
-- Jan 3, 2020 (Riddler Classic): [Spelling Bee (without S)](https://github.com/LaurentLessard/Riddler538/blob/master/spelling_bee/spelling_bee.ipynb), [Spelling Bee (with S)](https://github.com/LaurentLessard/Riddler538/blob/master/spelling_bee/spelling_bee2.ipynb)
+- Jan 3, 2020 (Riddler Classic): [Spelling Bee](https://github.com/LaurentLessard/Riddler538/blob/master/spellingbee.ipynb)

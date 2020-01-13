@@ -9,3 +9,4 @@ I will be building up this list over time. See also [my blog](https://laurentles
 - May 15, 2019 (Riddler Classic): [Living vs Dead](https://github.com/LaurentLessard/Riddler538/blob/master/deadvsliving.ipynb)
 - Jul 29, 2019 (Riddler Classic): [US Traverse](https://github.com/LaurentLessard/Riddler538/blob/master/us_traverse.ipynb)
 - Jan 3, 2020 (Riddler Classic): [Spelling Bee](https://github.com/LaurentLessard/Riddler538/blob/master/spellingbee.ipynb)
+- Jan 10, 2020 (Riddler Classic): [Gematria](https://github.com/LaurentLessard/Riddler538/blob/master/gematria.ipynb)

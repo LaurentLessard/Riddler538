@@ -12,3 +12,4 @@ I will be building up this list over time. See also [my blog](https://laurentles
 - Jan 10, 2020 (Riddler Classic): [Gematria](https://github.com/LaurentLessard/Riddler538/blob/master/gematria.ipynb)
 - Mar 20, 2020 (Riddler Classic): [Set](https://github.com/LaurentLessard/Riddler538/blob/master/set.ipynb)
 - May 22, 2020 (Riddler Classic): [State Names](https://github.com/LaurentLessard/Riddler538/blob/master/state_names.ipynb)
+- Jun 28, 2020 (Riddler Classic): [Connect the dots](https://github.com/LaurentLessard/Riddler538/blob/master/connect_the_dots.ipynb)

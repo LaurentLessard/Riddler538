@@ -13,4 +13,5 @@ I will be building up this list over time. See also [my blog](https://laurentles
 - Mar 20, 2020 (Riddler Classic): [Set](https://github.com/LaurentLessard/Riddler538/blob/master/set.ipynb)
 - May 22, 2020 (Riddler Classic): [State Names](https://github.com/LaurentLessard/Riddler538/blob/master/state_names.ipynb)
 - Jun 28, 2020 (Riddler Classic): [Connect the dots](https://github.com/LaurentLessard/Riddler538/blob/master/connect_the_dots.ipynb)
-- June 4, 2021 (Riddler Classic): [Decipher the message](https://github.com/LaurentLessard/Riddler538/blob/master/topology_words.ipynb)
+- Jun 4, 2021 (Riddler Classic): [Decipher the message](https://github.com/LaurentLessard/Riddler538/blob/master/topology_words.ipynb)
+- Mar 12, 2022 (Riddler Classic): [Dice pairs](https://github.com/LaurentLessard/Riddler538/blob/master/dice_pairs.ipynb)

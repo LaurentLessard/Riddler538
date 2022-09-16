@@ -16,3 +16,4 @@ I will be building up this list over time. See also [my blog](https://laurentles
 - Jun 4, 2021 (Riddler Classic): [Decipher the message](https://github.com/LaurentLessard/Riddler538/blob/master/topology_words.ipynb)
 - Mar 12, 2022 (Riddler Classic): [Dice pairs](https://github.com/LaurentLessard/Riddler538/blob/master/dice_pairs.ipynb)
 - May 6, 2022 (Riddler Classic): [Prime network](https://github.com/LaurentLessard/Riddler538/blob/master/prime_network.ipynb)
+- Sep 16, 2022 (Riddler Classic): [Anigrams](https://github.com/LaurentLessard/Riddler538/blob/master/anigrams.ipynb)

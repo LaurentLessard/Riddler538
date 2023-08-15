@@ -17,3 +17,4 @@ I will be building up this list over time. See also [my blog](https://laurentles
 - Mar 12, 2022 (Riddler Classic): [Dice pairs](https://github.com/LaurentLessard/Riddler538/blob/master/dice_pairs.ipynb)
 - May 6, 2022 (Riddler Classic): [Prime network](https://github.com/LaurentLessard/Riddler538/blob/master/prime_network.ipynb)
 - Sep 16, 2022 (Riddler Classic): [Anigrams](https://github.com/LaurentLessard/Riddler538/blob/master/anigrams.ipynb)
+- Aug 11, 2023 (Fiddler): [Forest view](https://github.com/LaurentLessard/Riddler538/blob/master/forest_sight.ipynb)

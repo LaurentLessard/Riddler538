@@ -18,3 +18,4 @@ I will be building up this list over time. See also [my blog](https://laurentles
 - May 6, 2022 (Riddler Classic): [Prime network](https://github.com/LaurentLessard/Riddler538/blob/master/prime_network.ipynb)
 - Sep 16, 2022 (Riddler Classic): [Anigrams](https://github.com/LaurentLessard/Riddler538/blob/master/anigrams.ipynb)
 - Aug 11, 2023 (Fiddler): [Forest view](https://github.com/LaurentLessard/Riddler538/blob/master/forest_sight.ipynb)
+- Oct 13, 2023 (Fiddler): [Slap](https://github.com/LaurentLessard/Riddler538/blob/master/slap.ipynb)

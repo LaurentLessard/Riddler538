@@ -19,3 +19,4 @@ I will be building up this list over time. See also [my blog](https://laurentles
 - Sep 16, 2022 (Riddler Classic): [Anigrams](https://github.com/LaurentLessard/Riddler538/blob/master/anigrams.ipynb)
 - Aug 11, 2023 (Fiddler): [Forest view](https://github.com/LaurentLessard/Riddler538/blob/master/forest_sight.ipynb)
 - Oct 13, 2023 (Fiddler): [Slap](https://github.com/LaurentLessard/Riddler538/blob/master/slap.ipynb)
+- Feb 16, 2024 (Fiddler): [Sum cards](https://github.com/LaurentLessard/Riddler538/blob/master/sum_cards.ipynb)
